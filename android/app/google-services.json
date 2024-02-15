@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1411213024",
+    "project_id": "mycoolblog",
+    "storage_bucket": "mycoolblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1411213024:android:aa3a4ba203173378595285",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3m-ROeqkIfbB2T10wBABQkkiwB2Thv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
